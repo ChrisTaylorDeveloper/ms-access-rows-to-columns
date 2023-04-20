@@ -1,6 +1,8 @@
 # MS Access rows to columns
 
-Convert rows to columns when values are unknown beforehand.
+Convert rows to columns when values are unknown beforehand.  
+
+Run query `customer_orders_as_cols` inside the MS Access 2000 database file.
 
 ## Main query
 
